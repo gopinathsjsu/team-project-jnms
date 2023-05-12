@@ -29,6 +29,7 @@
 # Component Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Component.jpeg)
 # Usecase Diagram
+![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/UseCase.png)
 # UI Wireframes
 # Design Decision
 # Deployment
