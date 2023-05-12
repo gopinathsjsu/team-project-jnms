@@ -25,6 +25,7 @@
 # Architecture Diagram
 # Deployment Diagram
 # Component Diagram
+![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Component.jpeg)
 # Usecase Diagram
 # Design Decision
 # Deployment
