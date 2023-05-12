@@ -1,11 +1,12 @@
-202 - Team Project JNMS
+**202 - Team Project JNMS**
 
-Team Members
+**Team Members**:
 
-Jesee Avanakshi - 016664778
+1.Jesee Avanakshi - 016664778
 
-Naga Lakshmi Nagubandi - 016648710
+2.Naga Lakshmi Nagubandi - 016648710
 
-Manasa Pannala - 016025685
+3.Manasa Pannala - 016025685
 
-Shreya Kommera - 016703921
+4.Shreya Kommera - 016703921
+
