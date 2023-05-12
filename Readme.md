@@ -25,9 +25,11 @@
 # Architecture Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Architecture_Diagram.png)
 # Deployment Diagram
+![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Deployment.png)
 # Component Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Component.jpeg)
 # Usecase Diagram
+# UI Wireframes
 # Design Decision
 # Deployment
 # Feature Set
