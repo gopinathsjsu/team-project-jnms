@@ -22,7 +22,6 @@
 # Sprint Sheet
 # Project Journal
 # Scrum Meetings
-# Project Board
 # Architecture Diagram
 # Deployment Diagram
 # Component Diagram
