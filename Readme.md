@@ -23,6 +23,7 @@
 # Project Journal
 # Scrum Meetings
 # Architecture Diagram
+![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Architecture_Diagram.png)
 # Deployment Diagram
 # Component Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Component.jpeg)
