@@ -31,6 +31,7 @@
 # Usecase Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/UseCase.png)
 # UI Wireframes
+All UI wireframes for each screen in our application are uploaded in a folder called "ui wireframes" above
 # Design Decision
 # Deployment
 # Feature Set
