@@ -10,5 +10,18 @@
 
 4.Shreya Kommera - 016703921
 
-
-
+# Tech Stack
+# Contributions
+# Procedure to run project
+# Sprint Sheet
+# Project Journal
+# Scrum Meetings
+# Project Board
+# Architecture Diagram
+# Deployment Diagram
+# Component Diagram
+# Usecase Diagram
+# Design Decision
+# Deployment
+# Feature Set
+# Project UI Screenshots
