@@ -1,6 +1,6 @@
-**202 - Team Project JNMS**
+# 202 - Team Project JNMS
 
-**Team Members**:
+# Team Members:
 
 1.Jesee Avanakshi - 016664778
 
@@ -9,4 +9,6 @@
 3.Manasa Pannala - 016025685
 
 4.Shreya Kommera - 016703921
+
+
 
