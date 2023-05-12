@@ -22,6 +22,7 @@
 # Sprint Sheet
 # Project Journal
 # Scrum Meetings
+Monday 7:30 pm PST
 # Architecture Diagram
 ![alt text](https://github.com/gopinathsjsu/team-project-jnms/blob/main/images/Architecture_Diagram.png)
 # Deployment Diagram
