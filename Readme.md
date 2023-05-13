@@ -36,7 +36,7 @@ Deployment - AWS EC2 Instance with Elastic Bean Load Balancer
 3.Run backend - npm start Run frontend - npm start
 
 # Sprint Sheet
- ### <a href="[https://docs.google.com/spreadsheets/d/1HckNW8eaOM9jcNUdqHzarLUhQngvDgRBhyivssHPdnw/edit?usp=sharing]"> Sprint Task Sheet & Burndown Chart</a>
+ ### <a href="https://docs.google.com/spreadsheets/d/1HckNW8eaOM9jcNUdqHzarLUhQngvDgRBhyivssHPdnw/edit?usp=sharing">Sprint Task Sheet & Burndown Chart</a>
 # Project Journal
 # Scrum Meetings
 Monday 7:30 pm PST
