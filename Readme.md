@@ -53,7 +53,8 @@ Monday 7:30 pm PST
 # UI Wireframes
 All UI wireframes for each screen in our application are uploaded in a folder called "ui wireframes" above
 # Design Decision
-**Database **
+
+**Database**
 
 Reasons to choose MongoDB 
 
@@ -84,4 +85,18 @@ Reasons to choose AWS for cloud Deployment
 Deploying a MERN stack project on AWS can have several advantages. AWS provides a scalable and reliable infrastructure that can handle large amounts of traffic and data. It also offers various services and tools, such as EC2, S3, and RDS, which can be used to build, deploy, and manage web applications. Additionally, AWS allows for easy integration with other services, such as CDN, DNS, and monitoring tools. By deploying a MERN stack project on AWS, developers can take advantage of these benefits and focus on building their applications, rather than worrying about infrastructure management and scaling
 
 # Feature Set
+- About GYM
+- Select City and view class Schedules and Membership
+- Enroll new user by Admin
+- Create a Free Trial User by Admin
+- Cancel a Free Trial by Admin
+- Create a Class by Admin
+- User able to check the available classes and book the class 
+- Display booked class for User
+- Logging hours by user
+- Activity graph for Logging user by User
+- Admin able enter check In and Check out for each user
+- Admin able to view No.of Classes per day 
+- Admin can we Analytics for past days.
+
 # Project UI Screenshots
