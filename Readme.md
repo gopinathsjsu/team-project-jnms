@@ -20,6 +20,14 @@ Database - MongoDB
 Deployment - AWS EC2 Instance with Elastic Bean Load Balancer
 
 # Contributions
+1.Jesee Avanakshi - Frontend , Cloud Deployment, Scrum Master, Documentation , Integration
+
+2.Naga Lakshmi Nagubandi - Database Design , Frontend, Wireframes, Data for Collections
+
+3.Manasa Pannala - Backend, Testing, Documentation
+
+4.Shreya Kommera - Backend, Documentation, Database Design
+
 # Procedure to run project
 1.git clone repo
 
