@@ -38,6 +38,8 @@ Deployment - AWS EC2 Instance with Elastic Bean Load Balancer
 # Sprint Sheet
  ### <a href="https://docs.google.com/spreadsheets/d/1HckNW8eaOM9jcNUdqHzarLUhQngvDgRBhyivssHPdnw/edit?usp=sharing">Sprint Task Sheet & Burndown Chart</a>
 # Project Journal
+### <a href="https://docs.google.com/spreadsheets/d/1r_nDpj42W2Rqz1oTsycpb6-94FXPH7HwX6z5Q3AZ76M/edit?usp=sharing">Project Journal- Team Members</a>
+
 # Scrum Meetings
 Monday 7:30 pm PST
 # Architecture Diagram
