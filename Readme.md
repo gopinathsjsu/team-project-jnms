@@ -100,3 +100,4 @@ Deploying a MERN stack project on AWS can have several advantages. AWS provides 
 - Admin can we Analytics for past days.
 
 # Project UI Screenshots
+All UI Screenshots for each screen in our application are uploaded in a folder called "UI Screenshots"
