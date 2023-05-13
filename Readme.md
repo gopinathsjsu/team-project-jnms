@@ -36,6 +36,7 @@ Deployment - AWS EC2 Instance with Elastic Bean Load Balancer
 3.Run backend - npm start Run frontend - npm start
 
 # Sprint Sheet
+ 
 # Project Journal
 # Scrum Meetings
 Monday 7:30 pm PST
