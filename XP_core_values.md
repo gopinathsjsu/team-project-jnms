@@ -1,0 +1,13 @@
+# XP Core Values implemented:
+
+#### Communication
+Our team maintained regular communication with each other to ensure we were all on the same page, and we held Scrum meetings every Monday to discuss any dependencies and issues we faced. During these meetings, we provided constructive feedback to each other, which helped us to make progress with the project. To keep track of our progress, we used the Github Project Board, which allowed us to monitor our sprints and ensure we were meeting our goals. Overall, our effective communication and use of tools like the Github Project Board enabled us to work collaboratively and efficiently on the project.
+
+#### Feedback
+During the project, each team member regularly offered constructive feedback on the work performed. The feedback provided was designed to help identify areas of improvement and encourage positive change. After providing feedback, team members ensured that it was implemented in the next sprint. By incorporating the feedback, the team could make continuous improvements and ensure that the project progressed towards achieving its objectives. This approach enabled the team to maintain a high level of performance, learn from their mistakes, and improve their skills, resulting in a higher quality end-product. Overall, the team's commitment to giving and implementing feedback was instrumental in helping them achieve their goals and deliver a successful project.
+
+#### Simplicity
+The team's approach in completing the project involved implementing only the most critical and necessary tasks. By prioritizing these crucial tasks, the team was able to focus its efforts on those that would have the most significant impact on the success of the project. This strategy allowed the team to streamline their work, avoid unnecessary distractions and effectively use their time and resources to achieve the project's objectives. By completing the essential and required tasks first, the team could deliver a functional product to the client on time and within budget while ensuring high-quality results.
+#### Courage
+
+As a team, we demonstrated courage by being willing to incorporate any additional details or tasks that were necessary for the project to progress successfully. This involved having the confidence to take on new challenges and to adapt to changing circumstances. By doing so, we could maintain momentum and ensure that the project remained on track to achieve its goals. Our willingness to take on new tasks and challenges also demonstrated our commitment to delivering high-quality results and meeting the client's expectations.
