@@ -11,6 +11,14 @@
 4.Shreya Kommera - 016703921
 
 # Tech Stack
+Frontend - HTML, CSS, JavaScript, React JS
+
+Backend - NodeJS, ExpressJS
+
+Database - MongoDB
+
+Deployment - AWS EC2 Instance with Elastic Bean Load Balancer
+
 # Contributions
 # Procedure to run project
 1.git clone repo
