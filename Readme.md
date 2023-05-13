@@ -53,6 +53,26 @@ Monday 7:30 pm PST
 # UI Wireframes
 All UI wireframes for each screen in our application are uploaded in a folder called "ui wireframes" above
 # Design Decision
+**Database **
+
+Reasons to choose MongoDB 
+
+HTML defines headings, paragraphs, links, images, tables, forms, and more on a web page.
+
+In HTML, CSS determines the layout, colors, fonts, and spacing of elements.
+
+User interactions, dynamic HTML and CSS modifications, calculations, API requests, and complex client functions are all possible with JavaScript.
+
+ReactJS uses a component-based architecture to build user interfaces. With its declarative syntax, it simplifies state management and UI updates for specific parts of a web page.
+
+**Backend**
+
+Reasons to choose NodeJS, ExpressJS
+
+As Node.js is event-driven and non-blocking, it handles concurrent requests effectively, thus making it ideal for scalability. Their shared JavaScript language eliminates context switching and enables easier code sharing. An extensive ecosystem surrounds Node.js, providing various libraries and tools. Asynchronous programming allows Node.js to perform faster. Request handling can be simplified with Express' middleware system. Express facilitates rapid development with its simplicity and minimalistic approach.
+
+
+
 # Deployment
 # Feature Set
 # Project UI Screenshots
